@@ -1,6 +1,5 @@
 package org.pactera.spring.boot.learn.controller;
 
-import org.apache.catalina.User;
 import org.pactera.spring.boot.learn.dto.UserDataDTO;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
